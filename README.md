@@ -1,16 +1,15 @@
-## Hi there 👋
+## Hello Internet! 🖖🏽
 
-<!--
-**Rigter/rigter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### I'm Omar Ramírez from Mexico City.
 
-Here are some ideas to get you started:
+With over 17 years of experience in **software development**, I have worked with leading tech companies and advertising agencies across Mexico, the USA, and beyond.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+As a developer, I have built applications using:
+
+As a developer, I have built applications using:
+
+- **Elixir**, **Ruby on Rails** and **PHP** for back-end development
+- **JavaScript** for web and hybrid mobile apps
+- **Objective-C** and **Swift** for iOS and macOS development
+
+Currently, I work as a **Mobile Engineering Manager** at @Boletia.
