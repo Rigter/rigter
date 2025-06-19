@@ -1,4 +1,4 @@
-<img alt="Hello Internet! - I'm Omar Ramírez from Mexico City." src="./assets/chibi-rigter.jpg"> 
+<img alt="Hello Internet! - I'm Omar Ramírez from Mexico City." src="./assets/chibi-rigter.png"> 
 
 With over 17 years of experience in **software development**, I have worked with leading tech companies and advertising agencies across Mexico, the USA and beyond.
 
